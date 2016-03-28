@@ -1,6 +1,6 @@
 # capstone
 Capstone project for Regis University
-### This capstone project is a Code4Sacramento and Sacramento Regional Center to End Honelessness collaboration.
+### This capstone project is a Code4Sacramento and Sacramento Regional Center to End Homelessness collaboration.
 My goal is to design an application that allows people to find services for homeless and low-income people using an interactive map.
 Some of the features requested by the product owner (SRCEH):
 * Allow navigation and directions from starting point to service location
